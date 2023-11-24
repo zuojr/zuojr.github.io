@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from [School of Economics and Management]((https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) majoring in Information Management and Information Systems at the department of Management Science and Engineering . My research interest includes Statistics and Operational Research.
+I'm a second year undergraduate student from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) majoring in Information Management and Information Systems at the department of Management Science and Engineering . My research interest includes Statistics and Operational Research.
 
 Contact
 ======
