@@ -14,6 +14,4 @@ Contact
 ======
 Phone: (86)13204537566<br/>
 Email : zuojr22@mails.tsinghua.edu.cn<br/>
-Github : [zuojr](https://github.com/zuojr)<br/>
-Kaggle: [jerryzuo11](https://www.kaggle.com/jerryzuo11)<br/> 
-Twitter: [Jerry Zuo](https://twitter.com/JerryZuo175178)<br/>
+
