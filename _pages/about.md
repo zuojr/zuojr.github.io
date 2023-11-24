@@ -13,5 +13,6 @@ I'm a second year undergraduate student from [School of Economics and Management
 Contact
 ======
 Phone: (86)13204537566<br/>
-[Email](mailto:zuojr22@mails.tsinghua.edu.cn) : zuojr22@mails.tsinghua.edu.cn<br/>
-[Github](https://github.com/zuojr) : zuojr<br/>
+Email : zuojr22@mails.tsinghua.edu.cn<br/>
+Github : zuojr<br/>
+Kaggle: jerryzuo11<br/> 
