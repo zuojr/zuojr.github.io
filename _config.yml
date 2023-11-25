@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://zuojr.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zuojr/zuojr.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "500x300.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jierui Zuo"
   avatar           : "zuojr.png"
-  bio              : "Tsinghua University"
-  location         : "Beijing"
+  bio              : "Remain curious & Make options"
+  location         : "Beijing Haidian"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
