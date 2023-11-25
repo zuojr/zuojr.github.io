@@ -15,6 +15,7 @@ Please don't hesitate to use the navigation panel above to explore more about me
 
 Contact
 ======
+<br/>
 Phone: (86)13204537566<br/>
 <br/>
 Email : zuojr22@mails.tsinghua.edu.cn<br/>
