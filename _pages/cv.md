@@ -13,6 +13,8 @@ Education
 ======
 * Bachelor of Administration, Tsinghua University, Sept.2022 - now
   * Majoring in Information Management and Information Systems
+* Bachelor of Science, Tsinghua University, Sept.2023 - now
+  * Minoring in Statistics
 * Mudanjiang No.1 Senior High School, Sept.2019 - June.2022
   * Number One Scholar of Science of Mudanjiang in Gaokao, 2022.
 
