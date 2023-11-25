@@ -15,7 +15,7 @@ Education
   * Majoring in Information Management and Information Systems
 * Mudanjiang No.1 Senior High School, Sept.2019 - June.2022
   * Number One Scholar of Science of Mudanjiang in Gaokao, 2022.
-  
+
 Competence
 ======
 * Languages
