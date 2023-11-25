@@ -12,7 +12,7 @@ author_profile: true
 Tsinghua University
 ======
 * Fall 2023
-  * STAT    &emsp;  Probability and Mathematical Statistics
+  * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Structures and Algorithms
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Java Programming
   * ECON    &emsp; Accounting Principles
