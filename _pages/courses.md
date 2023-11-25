@@ -31,6 +31,6 @@ Tsinghua University
 * Fall 2022
   * MATH    &emsp; Calculus A(1)
   * MATH    &emsp; Linear Algebra A
-  * CS&emsp;&emsp; Computer Language and Programming
+  * CS&emsp;&emsp;&emsp; Computer Language and Programming
   * ECON    &emsp; Principles of Economics(1)
   * MS&E    &emsp; Introduction of Enterprise Information Systems
