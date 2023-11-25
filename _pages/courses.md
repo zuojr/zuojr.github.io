@@ -20,7 +20,7 @@ Tsinghua University
   * CS&emsp;&emsp;&emsp; Data Science
 
 * Summer 2023
-  * ECON    &emsp; Theoretical and Empirical Finance (1)
+  * ECON   &emsp;Theoretical and Empirical Finance (1)
   * CS&emsp;&emsp;&emsp; Programming Fundamentals
   * CS&emsp;&emsp;&emsp; Practice of Data Collection and Processing for Business
     
