@@ -1,9 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Knowledge&Thoughts"
-excerpt: "Knowledge&Thoughts"
+permalink: /knowledge&thoughts/
 author_profile: true
-redirect_from: 
-  - /knowledge&thoughts/
-  - /knowledge&thoughts.html
 ---
+
+{% include base_path %}
