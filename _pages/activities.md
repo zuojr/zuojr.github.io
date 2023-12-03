@@ -7,3 +7,4 @@ redirect_from:
   - /activities/
   - /activities.html
 ---
+# Activities
