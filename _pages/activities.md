@@ -1,10 +1,9 @@
 ---
-permalink: /
+layout: archive
 title: "Activities"
-excerpt: "Activities"
+permalink: /activities/
 author_profile: true
-redirect_from: 
-  - /activities/
-  - /activities.html
+redirect_from:
+  - /actiities
 ---
 # Activities
