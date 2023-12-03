@@ -1,9 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Documents"
-excerpt: "Documents"
+permalink: /documents/
 author_profile: true
-redirect_from: 
-  - /documents/
-  - /documents.html
+redirect_from:
+  - /documents
 ---
+
+# Documents
