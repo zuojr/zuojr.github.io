@@ -11,7 +11,7 @@ author_profile: true
 
 
 ======
-* Fall 2023 @Tsinghua University
+* Fall 2023 @* Tsinghua University *
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Structures and Algorithms
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Java Programming
