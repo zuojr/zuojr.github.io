@@ -10,7 +10,6 @@ author_profile: true
 
 
 
-======
 * Winter 2023 **@edX&Coursea**
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; CS50's Introduction to Computer Science
   * MATH    &emsp; Mathematics for Machine Learning
