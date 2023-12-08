@@ -9,9 +9,9 @@ author_profile: true
 
 
 
-Tsinghua University
+
 ======
-* Fall 2023
+* Fall 2023 @Tsinghua University
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Structures and Algorithms
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Java Programming
@@ -19,16 +19,16 @@ Tsinghua University
   * OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Operational Research(1)
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Science
 
-* Summer 2023
+* Summer 2023 @Tsinghua University
   * ECON   &emsp; Theoretical and Empirical Finance (1)
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Programming Fundamentals
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Practice of Data Collection and Processing for Business
     
-* Spring 2023
+* Spring 2023 @Tsinghua University
   * MATH    &emsp; Calculus A(2)
   * MATH    &emsp; Advanced Topics in Linear Algebra
 
-* Fall 2022
+* Fall 2022 @Tsinghua University
   * MATH    &emsp; Calculus A(1)
   * MATH    &emsp; Linear Algebra A
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Computer Language and Programming
