@@ -11,6 +11,10 @@ author_profile: true
 
 
 ======
+* Winter 2023 **edX&Coursea**
+  * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; CS50's Introduction to Computer Science
+  * MATH    &emsp; Mathematics for Machine Learning
+
 * Fall 2023 **@Tsinghua University**
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Structures and Algorithms
