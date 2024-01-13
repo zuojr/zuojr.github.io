@@ -9,21 +9,30 @@ author_profile: true
 
 
 
+* Spring 2024 **@Tsinghua University**
+   * STAT    &nbsp;&emsp; Multivariate Statistical Analysis
+   * STAT    &nbsp;&emsp; Linear Regression Analysis
+   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; The Principle and Application of Database
+   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Computer Systems and Networks
+   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Fundamentals of Business Computing and Intelligent Analytics
+   * ECON    &emsp; Econometrics(1)
+   * OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Dynamic Systems: Analysis and Control
+   * CS&Fin   &emsp; Financial Big Data and Quantitative Analytics
 
 * Winter 2023 **@edX&Coursea**
-  * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; CS50's Introduction to Computer Science
+  * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; CS50's Introduction to Programming with Python
   * MATH    &emsp; Mathematics for Machine Learning
 
 * Fall 2023 **@Tsinghua University**
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Structures and Algorithms
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Java Programming
-  * ECON    &emsp; Accounting Principles
+  * Fin     &emsp; Accounting Principles
   * OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Operational Research(1)
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Science
 
 * Summer 2023 **@Tsinghua University**
-  * ECON   &emsp; Theoretical and Empirical Finance (1)
+  * Fin    &emsp; Theoretical and Empirical Finance (1)
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Programming Fundamentals
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Practice of Data Collection and Processing for Business
     
