@@ -27,7 +27,7 @@ author_profile: true
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Structures and Algorithms
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Java Programming
-  * Fin&emsp;&emsp; Accounting Principles
+  * Fin&emsp;&emsp;&nbsp; Accounting Principles
   * OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Operational Research(1)
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Science
 
