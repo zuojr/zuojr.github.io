@@ -17,7 +17,7 @@ author_profile: true
    * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Fundamentals of Business Computing and Intelligent Analytics
    * ECON    &emsp; Econometrics(1)
    * OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Dynamic Systems: Analysis and Control
-   * CS&Fin   ; Financial Big Data and Quantitative Analytics
+   * CS&Fin    Financial Big Data and Quantitative Analytics
 
 * Winter 2023 **@edX&Coursea**
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; CS50's Introduction to Programming with Python
@@ -27,12 +27,12 @@ author_profile: true
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Structures and Algorithms
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Java Programming
-  * Fin&emsp&emsp; Accounting Principles
+  * Fin&emsp;&emsp; Accounting Principles
   * OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Operational Research(1)
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Data Science
 
 * Summer 2023 **@Tsinghua University**
-  * Fin&emsp&emsp; Theoretical and Empirical Finance (1)
+  * Fin&emsp;&emsp; Theoretical and Empirical Finance (1)
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Programming Fundamentals
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Practice of Data Collection and Processing for Business
     
