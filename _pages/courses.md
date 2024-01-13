@@ -17,7 +17,7 @@ author_profile: true
    * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Fundamentals of Business Computing and Intelligent Analytics
    * ECON    &emsp; Econometrics(1)
    * OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Dynamic Systems: Analysis and Control
-   * CS&Fin    Financial Big Data and Quantitative Analytics
+   * CS&Fin   &nbsp;Financial Big Data and Quantitative Analytics
 
 * Winter 2023 **@edX&Coursea**
   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; CS50's Introduction to Programming with Python
