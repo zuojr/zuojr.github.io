@@ -20,8 +20,8 @@ author_profile: true
    * CS&Fin   &nbsp;Financial Big Data and Quantitative Analytics
 
 * Winter 2023 **@edX&Coursea**
-  * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; CS50's Introduction to Programming with Python
   * MATH    &emsp; Mathematics for Machine Learning
+  * SRT&emsp;&emsp; Google Earth Engine & Health Realted Research
 
 * Fall 2023 **@Tsinghua University**
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
