@@ -28,6 +28,7 @@ Competence
   * Python
   * Markdown, Latex
   * html,css,javascript
+  * Google Earth Engine
 * Hobby
   * Traveling, Basketball, Guitar
     
