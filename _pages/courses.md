@@ -22,6 +22,7 @@ author_profile: true
 * Winter 2023 **@edX&Coursea**
   * MATH    &emsp; Mathematics for Machine Learning
   * SRT&emsp;&emsp; Google Earth Engine & Health Realted Research
+  * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Introduction to Programming with Python
 
 * Fall 2023 **@Tsinghua University**
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
