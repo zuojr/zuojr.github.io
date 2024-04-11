@@ -10,14 +10,12 @@ author_profile: true
 
 
 * Spring 2024 **@Tsinghua University**
-   * STAT    &nbsp;&emsp; Multivariate Statistical Analysis
    * STAT    &nbsp;&emsp; Linear Regression Analysis
    * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; The Principle and Application of Database
    * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Computer Systems and Networks
-   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Fundamentals of Business Computing and Intelligent Analytics
+   * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Machine Learning
    * ECON    &emsp; Econometrics(1)
    * OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Dynamic Systems: Analysis and Control
-   * CS&Fin   &nbsp;Financial Big Data and Quantitative Analytics
 
 * Winter 2023 **@edX&Coursea**
   * MATH    &emsp; Mathematics for Machine Learning
