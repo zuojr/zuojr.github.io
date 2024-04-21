@@ -16,7 +16,6 @@ I will be an exchange student at [McGill University](https://www.mcgill.ca/) in 
 Don't hesitate to explore more about me!<br/>
 
 ## Contact
-======
 Phone : (86)13204537566<br/>
 Email : zuojr22@mails.tsinghua.edu.cn<br/>
 WeChat: zjr13204537566
