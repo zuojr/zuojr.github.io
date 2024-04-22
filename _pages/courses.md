@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-
+* Fall 2024   **@McGill University**
 * Spring 2024 **@Tsinghua University**
    * STAT    &nbsp;&emsp; Linear Regression Analysis
    * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; The Principle and Application of Database
