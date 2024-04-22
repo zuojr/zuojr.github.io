@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jierui Zuo"
+  name             : "Jerry Zuo"
   avatar           : "zuojr.png"
-  bio              : "Tsinghua University"
-  location         : "Beijing Haidian"
+  bio              : "Undergrad. in MISM&Statistics <br/>Tsinghua University"
+  location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "in/捷瑞-左-9428572a7"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
