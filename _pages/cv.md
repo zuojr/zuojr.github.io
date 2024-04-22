@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [CV](files/CV_ZJR.pdf)<br/>
 Education
 ======
