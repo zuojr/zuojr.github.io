@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jierui Zuo"
+title                    : "Jerry Zuo"
 title_separator          : "-"
 name                     : &name "Jierui Zuo"
 description              : &description "personal description"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "in/捷瑞-左-9428572a7"
+  linkedin         : "捷瑞-左-9428572a7"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
