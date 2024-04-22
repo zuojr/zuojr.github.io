@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](files/CV_ZJR.pdf)<br/>
+[CV](CV_ZJR.pdf)<br/>
 Education
 ======
 * Bachelor of Administration, Tsinghua University, Sept.2022 - now
