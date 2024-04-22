@@ -3,7 +3,7 @@ main:
   - title: "Courses"
     url: /courses/
     
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
 
   - title: "Research"
@@ -12,12 +12,12 @@ main:
   - title: "Talk"
     url: /talk/
 
-  - title: "Knowledge&Thoughts"
+  - title: "Thoughts"
     url: /knowledge&thoughts/
     
   - title: "Documents"
     url: /documents/
 
-  - title: "Activities"
+  - title: "Daily"
     url: /activities/
 
