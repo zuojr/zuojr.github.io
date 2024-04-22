@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](files/CV_ZJR.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://example.com/path/to/cv_zuojr.pdf)
 Education
 ======
 * Bachelor of Administration, Tsinghua University, Sept.2022 - now
