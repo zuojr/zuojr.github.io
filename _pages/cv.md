@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](http://example.com/path/to/cv_zuojr.pdf)
 Education
 ======
 * Bachelor of Administration, Tsinghua University, Sept.2022 - now
@@ -36,3 +37,4 @@ Service and leadership
 ======
 * Leader of the sports group of Youth League Committee at SEM, Tsinghua June.2023 - now
 * Member of the sports department of the Student Union of SEM, Tsinghua March.2023 - June.2023
+
