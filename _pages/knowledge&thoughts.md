@@ -19,7 +19,11 @@ Thanks to the recommendation of [Prof.Bo Li](https://www.sem.tsinghua.edu.cn/en/
 ![d1d02b2c34e6e8b1282b002e9fa77be](https://github.com/user-attachments/assets/8dd11564-a12e-49f1-9010-974115a99bde)
 
 
-
-
-## [China-U.S 'Bridging Voice' Program](https://mp.weixin.qq.com/s/n1-WcOAoJD07Wd3Kr5TQwQ)
+## [China-U.S 'Bridging Voices' Program](https://mp.weixin.qq.com/s/n1-WcOAoJD07Wd3Kr5TQwQ)
+In the post-COVID era, the world is full of uncertainties. How do young people in the new era understand China-U.S. relations? What contribution can we young people make to the future China-U.S. relations? In order to answer these questions, the Tsinghua University Global Competency Overseas Program "Bridging Voices between China and the United States" Team conducted overseas practice in the United States from August 3 to August 15,2024. On this trip, we tried to understand the past and present of tie between these two superpowers, understand the development of Chinese community in the United States, intuitively understand China's international status today, and deeply explore the interweaving of personal and national destiny.<br/>
+Our team consisted of 12 undergraduate students from 9 different colleges of Tsinghua University, who were all survivors from a very competitive selection process, and was led by [Prof.Da Wei](https://ciss.tsinghua.edu.cn/info/ResearchFellows/1239) and Prof.Liao Ying.
+![8e8da373a57283ea044089060deb411](https://github.com/user-attachments/assets/11739889-caf2-41a3-9bfb-b69f630f810d)
+![df607c58b1a111884d1ceda9b4ac80d](https://github.com/user-attachments/assets/1e156959-00c3-48ed-b417-a48a241832ff)
+![c941fe59dec31bfab54de6b7f44fa12](https://github.com/user-attachments/assets/5548e5d4-f3d4-4589-83b1-b8f00793cef6)
+![fc4d6c83031b4dbef6634ccfefb068e](https://github.com/user-attachments/assets/69a80808-d92e-4769-a0b2-13f7c7740bca)
 
