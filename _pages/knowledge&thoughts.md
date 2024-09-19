@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Knowledge&Thoughts"
+title: "Life"
 permalink: /knowledge&thoughts/
 author_profile: true
 ---
