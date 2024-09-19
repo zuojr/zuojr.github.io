@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## [Mostly OM 2024](http://www.rccm.tsinghua.edu.cn/mostly_om/home.htm)
-Mostly OM 2024 is the start of my academic journey.</br>
+Mostly OM 2024 is the start of my academic journey.<br/>
 Thanks to the recommendation of [Prof.Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1233/6986.htm), I was lucky to be enrolled in this great workshop as an undergraduate, which was my very first time attending an OM academic workshop. I met some great scholars in OM/OR/Stat including [Prof. David D.Yao](http://www.columbia.edu/~yao/), [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/), [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/), and [Prof. Hanzhang Qin](https://hanzhangqin.com/) who later became my first advisor in this area. Also I made some friends who had similar interest in this area. 
 ![552c4023c891702bc56e74c59d4cc59](https://github.com/user-attachments/assets/13d267ae-404a-4f3f-abac-bccdc438713b)
 ![d1d02b2c34e6e8b1282b002e9fa77be](https://github.com/user-attachments/assets/8dd11564-a12e-49f1-9010-974115a99bde)
