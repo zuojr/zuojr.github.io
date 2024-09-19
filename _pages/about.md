@@ -13,11 +13,9 @@ This is Jerry! I'm an undergraduate at [School of Economics and Management](http
 ## Research Area
 I am thrilled by causal inference, operation research and data-driven decision-making, hoping to develop novel methods that can be used to solve real-world challenges especially in business area. Currently I'm working on Online Learning & Experiment Design.<br/>
 
-## Contact
-Email : zuojr22@mails.tsinghua.edu.cn<br/>
-
 ## Interest
 I have a wide range of interest in sports like basketball, badminton and table tennis. And I love music and playing guitar. My favoriate singer is [Joker Xue]([https://music.apple.com/us/artist/joker-xue](https://music.apple.com/us/artist/joker-xue/160809474).<br/>
-
+## Contact
+Email : zuojr22@mails.tsinghua.edu.cn<br/><br/>
 Please push me to study math harder!
 
