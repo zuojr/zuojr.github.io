@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## [CUHK SZ Data Science Summer Program](https://my.31huiyi.com/pc/page/6da70000-cad5-5690-52ea-08dc417ec6e0)
-Really excited to meet Jim Dai Again! And also other great scholars including [David Simchi-Levi](https://slevi1-mit-edu.ezproxy.canberra.edu.au), [Jianqing Fan](https://fan.princeton.edu/), [Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498), [Jeff Wu](https://research.gatech.edu/people/jeff-wu), etc. I love the campus of CUHK SZ and the OR environment there.
+Really excited to meet Prof. Jim Dai Again! And also other great scholars including [Prof. David Simchi-Levi](https://slevi1-mit-edu.ezproxy.canberra.edu.au), [Prof. Jianqing Fan](https://fan.princeton.edu/), [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498), [Prof. Jeff Wu](https://research.gatech.edu/people/jeff-wu), etc. I love the campus of CUHK SZ and the OR environment there.
 ![86104a1a0b7dfc4fc822079265883eb](https://github.com/user-attachments/assets/2bbdd6a4-7da2-4ab9-9e2e-d8dcc88f594b)
 ![38f5c2c316e7c3dd6f37b0c424fed59](https://github.com/user-attachments/assets/1620895b-fcd2-49e5-9cfb-e80c05d4082f)
 ![f22f33d2f20c1bf7b9274b32897f8bb](https://github.com/user-attachments/assets/f8c1956c-f8e3-406d-96c3-1d1d8cec4f06)
