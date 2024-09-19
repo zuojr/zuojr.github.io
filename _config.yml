@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jerry Zuo"
 title_separator          : "-"
 name                     : &name "Jierui Zuo"
-description              : &description "personal description"
+description              : &description "personal academic website"
 url                      : https://zuojr.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zuojr/zuojr.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jerry Zuo"
-  avatar           : "16bc29ca1d3a36f2c23818caca57196.jpg"
-  bio              : "Undergrad. in MISM&Statistics <br/>Tsinghua University"
-  location         : "Beijing"
+  avatar           : "zjr.jpg"
+  bio              : "Undergrad. in OM & Statistics <br/>Tsinghua University"
+  location         : "Beijing/Montreal"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "捷瑞-左-9428572a7"
+  linkedin         : #"捷瑞-左-9428572a7"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JerryZuo175178"
+  twitter          : #"JerryZuo175178"
   vine             :
   weibo            :
   xing             :
