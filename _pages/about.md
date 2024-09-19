@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*Welcome here!*<br/>
-It's Jerry here! I'm an undergraduate at [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Information Management and Information Systems at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) and minoring in Statistics at [Department of Statistics and Data Science](http://www.stat.tsinghua.edu.cn/en/). I'm now doing research in the intersection of machine learning and optimization, fortunately having [Prof.Qin Hanzhang](https://hanzhangqin.com/) as my research advisor. I wish to pursue a phd in Operation Management/Operation Research in the future. Currently I'm an exchange student at [Desautels Faculty of Management](https://www.mcgill.ca/desautels/), [McGill University](https://www.mcgill.ca/).<br/>
+*Welcome here*<br/>
+This is Jerry! I'm an undergraduate at [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Information Management and Information Systems at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) and minoring in Statistics at [Department of Statistics and Data Science](http://www.stat.tsinghua.edu.cn/en/). I'm now doing research in the intersection of machine learning and optimization, fortunately having [Prof.Qin Hanzhang](https://hanzhangqin.com/) as my research advisor. I wish to pursue a phd in Operation Management/Operation Research in the future. Currently I'm an exchange student at [Desautels Faculty of Management](https://www.mcgill.ca/desautels/), [McGill University](https://www.mcgill.ca/).<br/>
 
 ## Research Area
 I am thrilled by causal inference, operation research and data-driven decision-making, hoping to develop novel methods that can be used to solve real-world challenges. Currently I'm working on Online Learning&Experiment Design.<br/>
