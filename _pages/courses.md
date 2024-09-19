@@ -9,6 +9,12 @@ author_profile: true
 
 
 * Fall 2024   **@McGill University**
+   * MATH454 Honors Analysis3(Real Analysis)
+   * MATH356 Honors Probability
+   * MATH587 Advanced Probability Theory
+   * MGCR372 Operation Management
+   * MGSC702 Stochastic Systems in Operation Management
+     
 * Spring 2024 **@Tsinghua University**
    * STAT    &nbsp;&emsp; Linear Regression Analysis
    * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; The Principle and Application of Database
@@ -19,8 +25,7 @@ author_profile: true
 
 * Winter 2023 **@edX&Coursea**
   * MATH    &emsp; Mathematics for Machine Learning
-  * SRT&emsp;&emsp; Google Earth Engine & Health Realted Research
-  * CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; Introduction to Programming with Python
+  * SRT&emsp;&emsp; Google Earth Engine 
 
 * Fall 2023 **@Tsinghua University**
   * STAT    &nbsp;&emsp; Probability and Mathematical Statistics
