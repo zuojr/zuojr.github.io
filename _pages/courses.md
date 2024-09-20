@@ -9,7 +9,7 @@ author_profile: true
 
 
 * Fall 2024   **@McGill University**
-   * MATH454 Honors Analysis3(Real Analysis)
+   * MATH454 [Honors Analysis3(Real Analysis)](https://www.math.mcgill.ca/jakobson/courses/math454.html)
    * MATH356 Honors Probability
    * MATH587 [Advanced Probability Theory](https://www.problab.ca/louigi/courses/2019/math587/index.html)
    * MGCR372 Operation Management
