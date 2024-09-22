@@ -13,8 +13,8 @@ Really excited to meet Prof. Jim Dai Again! And also other great scholars includ
 ![ea680aa42b85f1b25577a0fd4a17d37](https://github.com/user-attachments/assets/563ac21b-6f9c-406c-a4d2-f457d234b19b)
 
 ## [Mostly OM 2024](http://www.rccm.tsinghua.edu.cn/mostly_om/home.htm)
-Mostly OM 2024 is the start of my academic journey.<br/><br/>
-Thanks to the recommendation of [Prof.Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1233/6986.htm), I was lucky to be enrolled in this great workshop as an undergraduate, which was my very first time attending an OM academic workshop. I met some great scholars in OM/OR/Stat including [Prof.CHEN Jian](https://www.sem.tsinghua.edu.cn/en/info/1219/7004.htm), [Prof. David D.Yao](http://www.columbia.edu/~yao/), [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/), [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/), and [Prof. Hanzhang Qin](https://hanzhangqin.com/) who later became my first advisor in this area. Also I made some friends who had similar interest in this area. <br/>
+Mostly OM 2024 is the start of my academic journey.<br/>
+Thanks to the recommendation of [Prof.Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1233/6986.htm), I was lucky to be enrolled in this great workshop as an undergraduate, which was my very first time attending an OM academic workshop. I met some great scholars in OM/OR/Stat including [Prof.CHEN Jian](https://www.sem.tsinghua.edu.cn/en/info/1219/7004.htm), [Prof. David D.Yao](http://www.columbia.edu/~yao/), [Prof. Jim Dai](https://people.orie.cornell.edu/jdai/), [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/), and [Prof. Hanzhang Qin](https://hanzhangqin.com/) who later became my first advisor in this area. Also I made some friends who had similar interest in this area. <br/><br/>
 ![552c4023c891702bc56e74c59d4cc59](https://github.com/user-attachments/assets/13d267ae-404a-4f3f-abac-bccdc438713b)
 ![f71d18618db547b2c09379ebc70dd5c](https://github.com/user-attachments/assets/bfdee165-205d-4802-8a83-f5796512bcdf)
 ![04946b3d89ebfe05b18bbcec4f7ade9](https://github.com/user-attachments/assets/fa94e9e3-783a-45b2-95bb-60491c80262a)
