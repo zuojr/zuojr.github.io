@@ -22,18 +22,18 @@ author_profile: true
    * MATH [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
      
 * Spring 2024 **@Tsinghua University**
-   * STAT Linear Regression Analysis
+   * MATH Linear Regression Analysis
+   * MATH Dynamic Systems: Analysis and Control
    * ECON Econometrics
    * CS The Principle and Application of Database
    * CS Computer Systems and Networks
    * CS Machine Learning
-   * OR Dynamic Systems: Analysis and Control
-
+  
 * Winter 2023 **@edX&Coursea**
   * MATH  Mathematics for Machine Learning
 
 * Fall 2023 **@Tsinghua University**
-  * STAT  Probability and Mathematical Statistics
+  * MATH  Probability and Mathematical Statistics
   * ACCT Financial Accounting 
   * CS Data Structures and Algorithms
   * CS Java Programming
@@ -53,5 +53,5 @@ author_profile: true
   * MATH Calculus A(1)
   * MATH Linear Algebra A
   * ECON Principles of Economics(1)
-  * MS&E Introduction of Enterprise Information Systems
+  * IS Introduction of Enterprise Information Systems
   * CS Computer Language and Programming
