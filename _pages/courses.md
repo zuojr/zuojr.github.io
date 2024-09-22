@@ -34,10 +34,10 @@ author_profile: true
 
 * Fall 2023 **@Tsinghua University**
   * MATH  Probability and Mathematical Statistics
+  * MATH Operational Research
   * ACCT Financial Accounting 
   * CS Data Structures and Algorithms
   * CS Java Programming
-  * OR Operational Research
   * CS Data Science
 
 * Summer 2023 **@Tsinghua University**
