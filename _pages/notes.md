@@ -7,10 +7,10 @@ author_profile: true
 {% include base_path %}
 
 # Probability
-## Undergrad. Material:<br/>
+### Undergrad. Material:<br/>
 * [Intro. to probability model](/files/introduction-to-probability-model.pdf)
 * [Course Notes](files/MATH356-Probability.pdf)
-## Advanced Probability:<br/>
+### Advanced Probability:<br/>
 1. [Course Notes](/files/prob_notes.pdf)
 2. Handwritten lecture notes:<br/>
 * [basic measure theory](/files/measuretheory.pdf)
