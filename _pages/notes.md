@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 # Probability
-Undergrad. Material:<br/>
-
-Advanced Probability:<br/>
-1. [Course Notes](prob_notes.pdf)
+## Undergrad. Material:<br/>
+[Intro. to probability model](/files/introduction-to-probability-model.pdf)
+## Advanced Probability:<br/>
+1. [Course Notes](/files/prob_notes.pdf)
 2. Handwritten lecture notes:<br/>
 * [measure theory](/files/measuretheory.pdf)
 * [random variables1](/files/randomvariables_1-11.pdf)
