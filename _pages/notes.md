@@ -23,7 +23,7 @@ author_profile: true
 <br/><br/>
 
 # Measure Theory and Integration
-## measure theory
+## Measure theory
 * [Lecture1](/files/Lecture1.pdf)
 * [Lecture2](/files/Lecture2.pdf)
 * [Lecture3](/files/Lecture3.pdf)
@@ -31,7 +31,7 @@ author_profile: true
 * [Lecture5](/files/Lecture5.pdf)
 * [Lecture6](/files/Lecture6.pdf)
 * [Lecture7](/files/Lecture7.pdf)
-## integration theory
+## Integration theory
 * [Lecture 8](/files/Lecture_8.pdf)
 
 <br/><br/>
@@ -40,4 +40,5 @@ author_profile: true
 * [Bnadit Algorithms](/files/bandit.pdf)
 * [Reinforcement Learning: Theory and Algorithms](/files/rltheorybook_AJKS.pdf)
 * [Foundations of Reinforcement Learning and Interactive Decision Making](/files/FosterRakhlin2023.pdf)
+
 
