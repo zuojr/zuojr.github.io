@@ -8,8 +8,8 @@ author_profile: true
 
 # Probability
 ## Undergrad. Material:<br/>
-[Intro. to probability model](/files/introduction-to-probability-model.pdf)
-[Course Notes](files/MATH356-Probability.pdf)
+* [Intro. to probability model](/files/introduction-to-probability-model.pdf)
+* [Course Notes](files/MATH356-Probability.pdf)
 ## Advanced Probability:<br/>
 1. [Course Notes](/files/prob_notes.pdf)
 2. Handwritten lecture notes:<br/>
@@ -21,7 +21,7 @@ author_profile: true
 <br/>
 
 # Measure Theory and Integration
-### measure theory
+1. measure theory
 * [Lecture1](/files/Lecture1.pdf)
 * [Lecture2](/files/Lecture2.pdf)
 * [Lecture3](/files/Lecture3.pdf)
@@ -29,5 +29,5 @@ author_profile: true
 * [Lecture5](/files/Lecture5.pdf)
 * [Lecture6](/files/Lecture6.pdf)
 * [Lecture7](/files/Lecture7.pdf)
-### integration theory
+2. integration theory
 * [Lecture 8](/files/Lecture_8.pdf)
