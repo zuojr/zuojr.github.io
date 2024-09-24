@@ -14,7 +14,7 @@ author_profile: true
 1. [Course Notes](/files/prob_notes.pdf)
 2. Handwritten lecture notes:<br/>
 * [basic measure theory](/files/measuretheory.pdf)
-* random variables[1](/files/randomvariables_1-11.pdf)&[2](/files/randomvariables_12-16.pdf)
+* [random variables1](/files/randomvariables_1-11.pdf)&[2](/files/randomvariables_12-16.pdf)
 * [convergence](/files/convergenceintegrationexpection_1-6.pdf)
 * [measure and integration](/files/convergenceintegrationexpection_7-15.pdf)
 * [expection](/files/convergenceintegrationexpection_16-26.pdf)
