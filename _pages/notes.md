@@ -22,7 +22,7 @@ author_profile: true
 
 # Measure Theory and Integration
 ### measure theory
-* [Lecture1](/files/Lecture 1.pdf)
+* [Lecture1](/files/Lecture/1.pdf)
 * [Lecture2](/files/Lecture 2.pdf)
 * [Lecture3](/files/Lecture 3.pdf)
 * [Lecture4](/files/Lecture 4.pdf)
