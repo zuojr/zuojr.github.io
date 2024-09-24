@@ -19,7 +19,7 @@ author_profile: true
 * [measure and integration](/files/convergenceintegrationexpection_7-15.pdf)
 * [expection](/files/convergenceintegrationexpection_16-26.pdf)
 <br/>
-
+<br/>
 # Measure Theory and Integration
 ## measure theory
 * [Lecture1](/files/Lecture1.pdf)
@@ -29,6 +29,8 @@ author_profile: true
 * [Lecture5](/files/Lecture5.pdf)
 * [Lecture6](/files/Lecture6.pdf)
 * [Lecture7](/files/Lecture7.pdf)
-
 ## integration theory
 * [Lecture 8](/files/Lecture_8.pdf)
+
+<br/>
+<br/>
