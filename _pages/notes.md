@@ -22,12 +22,12 @@ author_profile: true
 
 # Measure Theory and Integration
 ### measure theory
-* [Lecture1](/files/Lecture\1.pdf)
-* [Lecture2](/files/Lecture 2.pdf)
-* [Lecture3](/files/Lecture 3.pdf)
-* [Lecture4](/files/Lecture 4.pdf)
-* [Lecture5](/files/Lecture 5.pdf)
-* [Lecture6](/files/Lecture 6.pdf)
-* [Lecture7](/files/Lecture 7.pdf)
+* [Lecture1](/files/Lecture1.pdf)
+* [Lecture2](/files/Lecture2.pdf)
+* [Lecture3](/files/Lecture3.pdf)
+* [Lecture4](/files/Lecture4.pdf)
+* [Lecture5](/files/Lecture5.pdf)
+* [Lecture6](/files/Lecture6.pdf)
+* [Lecture7](/files/Lecture7.pdf)
 ### integration theory
-* [Lecture 8](/files/Lecture 8.pdf)
+* [Lecture 8](/files/Lecture_8.pdf)
