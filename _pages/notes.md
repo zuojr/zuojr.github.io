@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 # Probability
+Undergrad. Material:<br/>
+
 Advanced Probability:<br/>
 1. [Course Notes](prob_notes.pdf)
 2. Handwritten lecture notes:<br/>
