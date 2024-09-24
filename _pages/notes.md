@@ -12,7 +12,7 @@ author_profile: true
 * [Course Notes](files/MATH356-Probability.pdf)
 ## Advanced Probability:<br/>
 1. [Course Notes](/files/prob_notes.pdf)
-2. Handwritten lecture notes:<br/>
+2. Handwritten lecture notes:
 * [basic measure theory](/files/measuretheory.pdf)
 * [random variables1](/files/randomvariables_1-11.pdf)&[2](/files/randomvariables_12-16.pdf)
 * [convergence](/files/convergenceintegrationexpection_1-6.pdf)
