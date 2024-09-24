@@ -20,7 +20,7 @@ author_profile: true
 <br/>
 
 # Measure Theory and Integration
-## Measure Theory
+### measure theory
 * [Lecture1](/files/Lecture1.pdf)
 * [Lecture2](/files/Lecture2.pdf)
 * [Lecture3](/files/Lecture3.pdf)
@@ -28,5 +28,5 @@ author_profile: true
 * [Lecture5](/files/Lecture5.pdf)
 * [Lecture6](/files/Lecture6.pdf)
 * [Lecture7](/files/Lecture7.pdf)
-## Integration Theory
+### integration theory
 * [Lecture 8](/files/Lecture8.pdf)
