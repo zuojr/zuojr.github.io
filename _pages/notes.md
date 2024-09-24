@@ -35,7 +35,7 @@ author_profile: true
 <br/><br/>
 
 # Bandit and Reinforcement Learning Theory
-* [Bnadit Algorithms]
-* [Reinforcement Learning: Theory and Algorithms]
-* [Foundations of Reinforcement Learning and Interactive Decision Making]
+* [Bnadit Algorithms](/files/bandit.pdf)
+* [Reinforcement Learning: Theory and Algorithms](/files/rltheorybook_AJKS.pdf)
+* [Foundations of Reinforcement Learning and Interactive Decision Making](/files/FosterRakhlin2023.pdf)
 
