@@ -11,15 +11,15 @@ author_profile: true
 * [Intro. to probability model](/files/introduction-to-probability-model.pdf)
 * [Course Notes](files/MATH356-Probability.pdf)
 ## Advanced Probability:<br/>
-1. [Course Notes](/files/prob_notes.pdf)
-2. Handwritten lecture notes:
+1.[Course Notes](/files/prob_notes.pdf)
+2.Handwritten lecture notes:
 * [basic measure theory](/files/measuretheory.pdf)
 * [random variables1](/files/randomvariables_1-11.pdf)&[2](/files/randomvariables_12-16.pdf)
 * [convergence](/files/convergenceintegrationexpection_1-6.pdf)
 * [measure and integration](/files/convergenceintegrationexpection_7-15.pdf)
 * [expection](/files/convergenceintegrationexpection_16-26.pdf)
-<br/>
-<br/>
+<br/><br/>
+
 # Measure Theory and Integration
 ## measure theory
 * [Lecture1](/files/Lecture1.pdf)
@@ -32,5 +32,10 @@ author_profile: true
 ## integration theory
 * [Lecture 8](/files/Lecture_8.pdf)
 
-<br/>
-<br/>
+<br/><br/>
+
+# Bandit and Reinforcement Learning Theory
+* [Bnadit Algorithms]
+* [Reinforcement Learning: Theory and Algorithms]
+* [Foundations of Reinforcement Learning and Interactive Decision Making]
+
