@@ -3,12 +3,11 @@ main:
   - title: "Courses"
     url: /courses/
     
-  - title: "Research"
-    url: /research/
-
-  - title: "Highlights"
-    url: /knowledge&thoughts/
-    
   - title: "Notes"
     url: /notes/
+
+  - title: "Research"
+    url: /research/
     
+  - title: "Highlights"
+    url: /knowledge&thoughts/
