@@ -19,7 +19,6 @@ author_profile: true
    * MATH Data Science in Operation Management
    * MATH Statistical Machine Learning
    * MATH Diffusion Model
-   * MATH [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf)
      
 * Spring 2024 **@Tsinghua University**
    * MATH Linear Regression Analysis
