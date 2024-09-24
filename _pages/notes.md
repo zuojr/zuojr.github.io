@@ -1,11 +1,12 @@
 ---
 layout: archive
+title: Notes and Books
 permalink: /notes/
 author_profile: true
 ---
 
 {% include base_path %}
-
+<br/>
 # Probability
 ## Undergrad. Material:<br/>
 * [Intro. to probability model](/files/introduction-to-probability-model.pdf)
