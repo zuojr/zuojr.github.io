@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-<br/>
 # Probability
 ## Undergrad. Material:<br/>
 * [Intro. to probability model](/files/introduction-to-probability-model.pdf)
@@ -34,6 +33,8 @@ author_profile: true
 
 ## Integration theory
 * [Lecture 8](/files/Lecture_8.pdf)
+* [Lecture 9](/files/Lecture_9.pdf)
+
 
 <br/><br/>
 
