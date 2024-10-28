@@ -21,5 +21,5 @@ Exchange Program in Mathematics and Operation Management <br/>
 
 ## Awards 
 - National Scholarship, Chinese Ministry of Education, 2024 <br/>
-- Comprehensive Merit Scholarship, Tsinghua University, 2023 <br/>
+- Comprehensive Merit Scholarship-Yang Jiang Scholarship, Tsinghua University, 2023 <br/>
 - First Prize in National High School Mathematics League, Chinese Mathematics Society, 2021 <br/>
