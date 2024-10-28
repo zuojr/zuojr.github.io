@@ -9,18 +9,18 @@ author_profile: true
 
 ## Education
 
-**Tsinghua University**, Sep.2022-Jun.2027(expected) <br/>
-- Department of Management Science and Engineering <br/>
+**Tsinghua University** <br/>
+- Department of Management Science and Engineering, Sep.2022-Jun.2027(expected) <br/>
 *B.Management* in Information Management and Information Systems (with a concentration in OM) <br/>
-- Department of Statistics and Data Science <br/>
+- Department of Statistics and Data Science, Sep.2023-Jun.2027(expected) <br/>
 *B.Science* in Statistical Science
 
-**McGill University**, Sep.2024-Dec.2024 <br/>
-- Desautels Faculty of Management <br/>
+**McGill University** <br/>
+- Desautels Faculty of Management, Sep.2024-Dec.2024 <br/>
 Exchange Program in Mathematics and Operation Management <br/>
 
-**Chinese University of Hong Kong, SZ**, Aug.2024 <br/>
-- School of Data Science <br/>
+**Chinese University of Hong Kong, SZ** <br/>
+- School of Data Science, Aug.2024 <br/>
 Data Science Summer Program <br/>
 
 ## Awards 
