@@ -10,9 +10,13 @@ author_profile: true
 **Education**
 
 **Tsinghua University**, Sep.2022-Jun.2027(expected) <br/>
-B.Mgmt in Information Management and Information Systems (with a concentration in Operation Management)<br/>
-B.Science in Statistical Science <br/>
+*B.Management* in Information Management and Information Systems (with a concentration in Operation Management)<br/>
+*B.Science* in Statistical Science
 
 **McGill University**, Sep.2024-Dec.2024 <br/>
 Exchange Program in Mathematics and Operation Management <br/>
 
+**Awards**
+National Scholarship, Chinese Ministry of Education, 2024
+Comprehensive Merit Scholarship, Tsinghua University, 2023
+First Prize in National High School Mathematics League, Chinese Mathematics Society, 2021
