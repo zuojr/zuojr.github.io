@@ -16,7 +16,7 @@ author_profile: true
 *B.Science* in Statistical Science
 
 **McGill University**, Sep.2024-Dec.2024 <br/>
-- Desautels Faculty of Management
+- Desautels Faculty of Management <br/>
 Exchange Program in Mathematics and Operation Management <br/>
 
 ## Awards 
