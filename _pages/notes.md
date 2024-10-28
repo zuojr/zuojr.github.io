@@ -32,8 +32,8 @@ author_profile: true
 * [Lecture7](/files/Lecture7.pdf)
 
 ## Integration theory
-* [Lecture8](/files/Lecture_8.pdf)
-* [Lecture9](/files/Lecture_9.pdf)
+* [Lecture8](/files/Lecture8.pdf)
+* [Lecture9](/files/Lecture9.pdf)
 
 
 <br/><br/>
