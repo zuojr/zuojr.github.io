@@ -11,7 +11,7 @@ author_profile: true
 
 **Tsinghua University**, Sep.2022-Jun.2027(expected) <br/>
 - Department of Management Science and Engineering <br/>
-*B.Management* in Information Management and Information Systems (with a concentration in Operation Management)<br/>
+*B.Management* in Information Management and Information Systems (with a concentration in OM) <br/>
 - Department of Statistics and Data Science <br/>
 *B.Science* in Statistical Science
 
