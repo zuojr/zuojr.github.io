@@ -19,6 +19,10 @@ author_profile: true
 - Desautels Faculty of Management <br/>
 Exchange Program in Mathematics and Operation Management <br/>
 
+**Chinese University of Hong Kong, SZ**, Aug.2024 <br/>
+- School of Data Science <br/>
+Data Science Summer Program <br/>
+
 ## Awards 
 - National Scholarship, Chinese Ministry of Education, 2024 <br/>
 - Comprehensive Merit Scholarship-Yang Jiang Scholarship, Tsinghua University, 2023 <br/>
