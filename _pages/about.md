@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 I'm a junior undergraduate at [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Information Management and Information Systems at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) and minoring in Statistics at [Department of Statistics and Data Science](http://www.stat.tsinghua.edu.cn/en/). <br/> 
-I'm now doing research in the intersection of machine learning and optimization, fortunately having [Prof.Qin Hanzhang](https://hanzhangqin.com/) as my research advisor. I'm seeking a phd in [Operation Management](https://en.wikipedia.org/wiki/Operations_management)&[Operation Research](https://en.wikipedia.org/wiki/Operations_research) in 2026/2027 fall. <br/> 
-Currently I'm an exchange student at [McGill University](https://www.mcgill.ca/) where I follow [Prof. Yichuan Ding](https://sites.google.com/site/y7ding/home) studying queuing theory and explore its intersection with multi-armed bandit.<br/>
-
+I'm now doing research in the intersection of machine learning and optimization, fortunately having [Prof.Qin Hanzhang](https://hanzhangqin.com/) as my research advisor. Currently I'm an exchange student at [McGill University](https://www.mcgill.ca/) where I follow [Prof. Yichuan Ding](https://sites.google.com/site/y7ding/home) studying queuing theory and explore its intersection with multi-armed bandit.<br/>
+I'm seeking a phd in [Operation Management](https://en.wikipedia.org/wiki/Operations_management)&[Operation Research](https://en.wikipedia.org/wiki/Operations_research) in 2026/2027 fall. <br/> 
 ## Research Area
 I am thrilled by operation research, machine learning and data-driven decision-making methods, hoping to develop novel methods that can be used to solve real-world challenges especially in business area. Currently I'm working on Multi-armed Bandit & Experiment Design.<br/>
 
