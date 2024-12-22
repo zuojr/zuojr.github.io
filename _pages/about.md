@@ -11,7 +11,7 @@ I'm a junior undergraduate at [Department of Management Science and Engineering]
 I'm now doing research in the intersection of machine learning and optimization, fortunately having [Prof.Qin Hanzhang](https://hanzhangqin.com/) as my research advisor.<br/>
 I'm seeking a phd position in [Operation Management](https://en.wikipedia.org/wiki/Operations_management)&[Operation Research](https://en.wikipedia.org/wiki/Operations_research) in 2026/2027 fall. <br/> 
 ## Research Area
-I am thrilled by operation research, machine learning and data-driven decision-making methods, hoping to develop novel methods that can be used to solve real-world challenges. Currently I'm working on Multi-armed Bandit & Experiment Design.<br/>
+I am thrilled by operation research, machine learning and data-driven decision-making methods, hoping to develop novel methods that can be used to solve real-world challenges. <br/>
 
 ## Contact
 Email : zuojr22@mails.tsinghua.edu.cn<br/><br/>
