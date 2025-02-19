@@ -17,4 +17,4 @@ I am thrilled by online learning, online optimization and experimental design, h
 ## Contact
 Email : zuojr22@mails.tsinghua.edu.cn<br/><br/>
 Please push me to study math harder!<br/>
-Last Update: 2024.8
+Last Update: 2025.2
