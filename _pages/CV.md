@@ -10,10 +10,10 @@ author_profile: true
 ## Education
 
 **Tsinghua University** <br/>
-- Department of Management Science and Engineering, Sep.2022-Jun.2027(expected) <br/>
-*Bachelor of Management Science* in Information Management and Information Systems (with a concentration in OM) <br/>
-- Department of Statistics and Data Science, Sep.2023-Jun.2027(expected) <br/>
-*Bachelor of Science* in Statistical Science
+- Department of Management Science and Engineering, Sep.2022-Jun.2027 <br/>
+*Bachelor of Management Science* in Information Management and Information Systems <br/>
+- Department of Statistics and Data Science, Sep.2023-Jun.2027 <br/>
+*Bachelor of Science* in Statistical Science (Minor)
 
 **McGill University** <br/>
 - Desautels Faculty of Management, Sep.2024-Dec.2024 <br/>
