@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jerry Zuo (左捷瑞）"
   avatar           : "674d8a960ca2262c74718680e6cf91f.jpg"
-  bio              : "Undergrad. in OR & OM <br/>Tsinghua University"
+  bio              : "Undergrad. in OR & Stats <br/>Tsinghua University"
   location         : "Beijing/Montreal"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=Tq8--EEAAAAJ&hl=en"
   email            : "zuojr22@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   github           : "zuojr"
   google_plus      :
   keybase          :
-  instagram        : "zuojr22"
+  instagram        : #"zuojr22"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"捷瑞-左-9428572a7"
