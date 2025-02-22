@@ -28,4 +28,5 @@ Data Science Summer Program <br/>
 - National Scholarship, Chinese Ministry of Education, 2024 <br/>
 - Comprehensive Merit Scholarship-Yang Jiang Scholarship, Tsinghua University, 2023 <br/>
 - Top 10 Sports Personality of School of Economics and Management, 2023 <br/>
+- Rank 1st among over 15000 in National College Enterance Exam, 2022 <br/>
 - First Prize in National High School Mathematics League, Chinese Mathematics Society, 2021 <br/>
