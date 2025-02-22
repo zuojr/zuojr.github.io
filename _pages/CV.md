@@ -24,7 +24,7 @@ Exchange Program in Mathematics and Operation Management <br/>
 Data Science Summer Program <br/>
 
 ## Awards 
-- Zheng Weimin Scholarship, Department of Management Science and Engineering, 2025 <br>
+- Zheng Weimin Scholarship, Department of Management Science and Engineering, 2024 <br>
 - National Scholarship, Chinese Ministry of Education, 2024 <br/>
 - Comprehensive Merit Scholarship-Yang Jiang Scholarship, Tsinghua University, 2023 <br/>
 - Top 10 Sports Personality of School of Economics and Management, 2023 <br/>
