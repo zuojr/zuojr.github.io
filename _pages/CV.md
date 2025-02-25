@@ -31,7 +31,8 @@ Data Science Summer Program <br/>
 - OR: Operation Research, Dynamic Systems Analysis and Control, Convex Optimization;
 
 @McGill University:<br/>
-- Honors Analysis, Honors Probability, Operation Management, Advanced Probability Theory
+- Honors Analysis, Honors Probability, Operation Management, Advanced Probability Theory<br/>
+
 ## Awards 
 - Zheng Weimin Scholarship, Department of Management Science and Engineering, 2024 <br>
 - National Scholarship, Chinese Ministry of Education, 2024 <br/>
