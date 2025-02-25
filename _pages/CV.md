@@ -28,7 +28,7 @@ Data Science Summer Program <br/>
 - MATH: Calculus A, Linear Algebra, Advanced Topics in Linear Algebra, Real Analysis, Basic Functional Analysis;
 - STAT: Probability Theory and Mathematical Statistics, Statistical Inference, Linear Regression Analysis, Data Science, Statistical Learning, Machine Learning, Design and Analysis of Experiment, Statistical Computing and Softwares;
 - CS: Data Structure and Algorithms, Computer Systems and Networks, Principle and Application of Database;
-- OR: Operation Research, Convex Optimization;
+- OR: Operation Research, Dynamic Systems Analysis and Control, Convex Optimization;
 
 @McGill University:<br/>
 - Honors Analysis, Honors Probability, Operation Management, Advanced Probability Theory
