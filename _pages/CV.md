@@ -23,6 +23,14 @@ Exchange Program in Mathematics and Operation Management <br/>
 - School of Data Science, Aug.2024 <br/>
 Data Science Summer Program <br/>
 
+## Core Courses
+@Tsinghua University:<br/>
+- MATH: Caculus A(1)(2), Linear Algebra, Advanced Topics in Linear Algebra, Real Analysis;
+- STAT: Probability Theory and Mathematical Statistics, Linear Regression Analysis, Data Science, Statistical Learning, Machine Learning, Design and Analysis of Experiment;
+- CS: Data Structure and Algorithms, Computer Systems and Networks, Principle and Application of Database;
+- OR: Operation Research;
+@McGill University:<br/>
+Honors Analysis, Honors Probability, Operation Management, Advanced Probability Theory
 ## Awards 
 - Zheng Weimin Scholarship, Department of Management Science and Engineering, 2024 <br>
 - National Scholarship, Chinese Ministry of Education, 2024 <br/>
