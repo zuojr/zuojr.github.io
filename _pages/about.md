@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior undergraduate at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Information Management and Information Systems. I'm very fortunate to work with [Hanzhang Qin](https://hanzhangqin.com/), [Ruihao Zhu](https://rzhu.github.io/), [Zijie Zhou](https://sites.mit.edu/zijiezhou/) and [Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/). 
+I'm a junior undergraduate at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Information Management and Information Systems. I'm very fortunate to be working with [Hanzhang Qin](https://hanzhangqin.com/), [Ruihao Zhu](https://rzhu.github.io/), [Zijie Zhou](https://sites.mit.edu/zijiezhou/) and [Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/). 
 I'm seeking a phd position in [Operation Management](https://en.wikipedia.org/wiki/Operations_management)&[Operation Research](https://en.wikipedia.org/wiki/Operations_research) in 2026 fall. <br/> 
 ## Research Interest
 I am thrilled by online learning, experimental design, hoping to develop novel data-driven methods that can be used to solve real-world challenges. <br/>
