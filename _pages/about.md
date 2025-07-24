@@ -14,7 +14,7 @@ I am broadly interested in the science of decision-making under uncertainty, wit
 <br/>
 ## Publication & Working Paper
 - Jierui Zuo, Hanzhang Qin (2025). [On Pareto Optimality for the Multinomial Logistic Bandit.](https://arxiv.org/abs/2501.19277) <br/> arxiv preprint 2501.19277 <br/>
-- Jierui Zuo, Ruihao Zhu, Hanzhang Qin (2025). [On Pareto Optimality for the Multinomial Logistic Bandit.]() <br/> Manuscript in preparation <br/>
+- Jierui Zuo, Ruihao Zhu, Hanzhang Qin (2025). [LLM–Augmented Best-Arm Identification with Control Variates.]() <br/> Manuscript in preparation <br/>
 
 ## Contact
 Email : zuojr22@mails.tsinghua.edu.cn<br/><br/>
