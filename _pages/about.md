@@ -13,8 +13,8 @@ I'm a fourth-year undergraduate student at [Department of Management Science and
 I am broadly interested in the science of decision-making under uncertainty, with a focus on developing principled, data-driven methods that are both theoretically sound and practically impactful. My goal is to contribute to a deeper understanding of how learning, optimization, and inference can be integrated to support robust decision-making in dynamic and information-constrained environments. In the long run, I hope to help bridge the gap between elegant theory and real-world relevance—building tools that are not only provable in performance, but also meaningful in application.
 <br/>
 ## Publication & Working Paper
-- Jierui Zuo, Hanzhang Qin (2025). [On Pareto Optimality for the Multinomial Logistic Bandit.](https://arxiv.org/abs/2501.19277) <br/> arxiv preprint 2501.19277 <br/>
-- Jierui Zuo, Ruihao Zhu, Hanzhang Qin (2025). [LLM–Augmented Best-Arm Identification with Control Variates.]() <br/> Manuscript in preparation <br/>
+- Jierui Zuo, Hanzhang Qin (2025). [On Pareto Optimality for the Multinomial Logistic Bandit.](https://arxiv.org/abs/2501.19277)  arxiv preprint 2501.19277 <br/>
+- Jierui Zuo, Ruihao Zhu, Hanzhang Qin (2025). [LLM–Augmented Best-Arm Identification with Control Variates.]()  Manuscript in preparation <br/>
 
 ## Contact
 Email : zuojr22@mails.tsinghua.edu.cn<br/><br/>
