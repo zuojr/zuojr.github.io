@@ -31,12 +31,12 @@ Exchange Program in Math and Operation Management <br/>
 - CS224n: Natural Language Processing with Deep Learning <br/>
 
 ## Awards 
+- Comprehensive Merit Scholarship-Science and Technology Scholarship, Tsinghua University, 2025 <br/>
+- Overseas Research Scholarship, Tsinghua University, 2025 <br>
 - Zheng Weimin Scholarship, Department of Management Science and Engineering, 2024 <br>
 - National Scholarship, Chinese Ministry of Education, 2024 <br/>
 - Comprehensive Merit Scholarship-Yang Jiang Scholarship, Tsinghua University, 2023 <br/>
-- Top 10 Sports Personality of School of Economics and Management, 2023 <br/>
-- Area-ranking 1st in National College Enterance Exam, 2022 <br/>
-- Second Prize in National High School Mathematics League, Chinese Mathematics Society, 2021 <br/>
+- Top Sports Personality of School of Economics and Management, 2023 <br/>
 
 ## Additional Information
 - Programming: Python(>50K lines), Java, C, SQL, LaTex <br/>
