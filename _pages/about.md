@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate student in the [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and I am applying for PhD programs in OR/OM starting Fall 2026.
+I am an undergraduate student in the [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and **I am applying for PhD programs in OR/OM starting Fall 2026**.
 
 My research interests broadly lie in data-driven decision-making under uncertainty, at the intersection of online learning, causal inference, and generative models. I am especially excited about settings where rigorous theory meets realistic data and constraints, such as pricing, recommendation and decision-making in modern financial platforms.
 
@@ -19,5 +19,6 @@ I am very fortunate to be advised by [Prof. Bo Li](https://www.sem.tsinghua.edu.
 I'm always open to new interesting topics and please feel free to reach out!
 
 ## Miscs
-I enjoy table tennis, basketball and travelling in my free time.
+Outside of research, I enjoy table tennis, basketball, and traveling.<br/>
+A fun fact: my Chinese name is pronounced like “Jerry,” so I’ve used it as my English name since childhood. (Yes, people do ask: “Where’s Tom?”)
 
