@@ -12,7 +12,7 @@ I'm a fourth-year undergraduate student at [Department of Management Science and
 - Online Learning
 - Causal Inference
 - Generative Models
-<br/>  
+
 I am broadly interested in the science of data-driven decision-making under uncertainty, with a focus on developing principled, data-driven methods that are both theoretically sound and practically impactful. My goal is to contribute to a deeper understanding of how learning, optimization, and causal inference can be integrated to support decision-making in dynamic and information-constrained environments. And I am increasingly drawn to the role of generative models not only as predictors, but also as structured sources of prior information and synthetic data that can enhance learning and inference. In the long run,  I hope to develop methods that are both theoretically sound and practically useful, with applications to real-world problems, especially pricing, recommendation, and modern financial platforms.
 <br/>
 
