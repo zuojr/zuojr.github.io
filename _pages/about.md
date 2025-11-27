@@ -6,20 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth-year undergraduate student at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/). I'm very fortunate to have [Prof. Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1219/6985.htm) as my undergraduate supervisor，working with him on my thesis about structured generative models for causal inference. I'm also fortunate to work with [Prof. Hanzhang Qin](https://hanzhangqin.com/), [Prof. Ruihao Zhu](https://rzhu.github.io/) on Multi-armed Bandit and [Prof. Zijie Zhou](https://sites.google.com/view/zijiezhou/), [Prof. Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/) on Experimental Design for Online Scheduling during my undergraduate study. <br/> 
+I am an undergraduate student in the [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and I am applying for PhD programs in OR/OM starting Fall 2026.
+
+My research interests broadly lie in data-driven decision-making under uncertainty, at the intersection of online learning, causal inference, and generative models. I am especially excited about settings where rigorous theory meets realistic data and constraints, such as pricing, recommendation and decision-making in modern financial platforms.
+
+I am very fortunate to be advised by [Prof. Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1219/6985.htm) on my undergraduate thesis on structured generative models for causal inference. I have also been fortunate to collaborate with [Prof. Hanzhang Qin](https://hanzhangqin.com/) and [Prof. Ruihao Zhu](https://rzhu.github.io/) on multi-armed bandits, and with [Prof. Zijie Zhou](https://sites.google.com/view/zijiezhou/) and [Prof. Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/) on experimental design for online scheduling.<br/>
+
 
 ## Research Interest
 - Online Learning
 - Causal Inference
 - Generative Models
 
-I am broadly interested in the science of data-driven decision-making under uncertainty, with a focus on developing principled, data-driven methods that are both theoretically sound and practically impactful. My goal is to contribute to a deeper understanding of how learning, optimization, and causal inference can be integrated to support decision-making in dynamic and information-constrained environments. And I am increasingly drawn to the role of generative models not only as predictors, but also as structured sources of prior information and synthetic data that can enhance learning and inference. In the long run,  I hope to develop methods that are both theoretically sound and practically useful, with applications to real-world problems, especially pricing, recommendation, and modern financial platforms.
-<br/>
-
 ## Publication & Working Paper
 - Jierui Zuo, Hanzhang Qin (2025). [On Pareto Optimality for the Multinomial Logistic Bandit.](https://arxiv.org/abs/2501.19277)  arxiv preprint 2501.19277 <br/>
 - Jierui Zuo, Ruihao Zhu, Hanzhang Qin (2025). [LLM–Augmented Best-Arm Identification with Control Variates.]()  Manuscript in preparation <br/>
 
-## Contact
-Email : zuojr22@mails.tsinghua.edu.cn<br/><br/>
+## Miscs
+I enjoy table tennis, basketball and travelling in my free time.
 
