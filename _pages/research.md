@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /Pub/
 author_profile: true
 redirect_from:
-  - /research
+  - /publications
 ---
 Coming soon...
