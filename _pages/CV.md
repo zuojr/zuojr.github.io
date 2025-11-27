@@ -22,7 +22,7 @@ Exchange Program in Math and Operation Management <br/>
 - MATH: Calculus A, Linear Algebra, Advanced Topics in Linear Algebra, Real Analysis;
 - STAT: Probability Theory and Mathematical Statistics, Linear Regression Analysis, Data Science, Statistical Learning, Machine Learning;
 - CS: Data Structure and Algorithms, Computer Systems and Networks, Principle and Application of Database;
-- OR: Operation Research, Dynamic Systems Analysis and Control, Convex Optimization, Online Learning and Decision-making;
+- OR: Operational Research, Dynamic Systems Analysis and Control, Convex Optimization, Online Learning and Decision-making;
 
 @McGill University:<br/>
 - Honors Analysis, Honors Probability, Operation Management, Advanced Probability Theory<br/>
@@ -30,15 +30,3 @@ Exchange Program in Math and Operation Management <br/>
 @Standford Online:<br/>
 - CS224n: Natural Language Processing with Deep Learning <br/>
 
-## Awards 
-- Comprehensive Merit Scholarship-Science and Technology Scholarship, Tsinghua University, 2025 <br/>
-- Overseas Research Scholarship, Tsinghua University, 2025 <br>
-- Zheng Weimin Scholarship, Department of Management Science and Engineering, 2024 <br>
-- National Scholarship, Chinese Ministry of Education, 2024 <br/>
-- Comprehensive Merit Scholarship-Yang Jiang Scholarship, Tsinghua University, 2023 <br/>
-- Top Sports Personality of School of Economics and Management, 2023 <br/>
-
-## Additional Information
-- Programming: Python(>50K lines), Java, C, SQL, LaTex <br/>
-- Language: Chinese(native), English(fluent) <br/>
-- Sports: Basketball school team player(PF, extra-curricular group), Table tennis enthusiast <br/>
