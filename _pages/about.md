@@ -13,8 +13,8 @@ My research interests broadly lie in data-driven decision-making under uncertain
 I am very fortunate to be advised by [Prof. Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1219/6985.htm) on my undergraduate thesis on structured generative models for causal inference. I have also been fortunate to collaborate with [Prof. Hanzhang Qin](https://hanzhangqin.com/) and [Prof. Ruihao Zhu](https://rzhu.github.io/) on multi-armed bandits, and with [Prof. Zijie Zhou](https://sites.google.com/view/zijiezhou/) and [Prof. Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/) on experimental design for online scheduling.<br/>
 
 ## Research Interest
-**Methodology:** online learning, causal inference, generative models.  
-**Applications:** dynamic pricing, online recommendation, financial platforms.
+- **Methodology:** online learning, causal inference, generative models.  
+- **Applications:** dynamic pricing, online recommendation, financial platforms.<br/>
 
 
 ## Miscs
