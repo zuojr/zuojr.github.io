@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: Experiences
 permalink: /CV/
 author_profile: true
 ---
