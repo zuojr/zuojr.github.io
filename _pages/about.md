@@ -19,6 +19,7 @@ I am very fortunate to be advised by [Prof. Bo Li](https://www.sem.tsinghua.edu.
 I'm always open to new interesting topics and please feel free to reach out!
 
 ## Miscs
-Outside of research, I enjoy table tennis, basketball, and traveling.<br/>
+Outside of research, I enjoy table tennis, basketball, and traveling.
+
 A fun fact: my Chinese name is pronounced like “Jerry,” so I’ve used it as my English name since childhood. (Yes, people do ask: “Where’s Tom?”)
 
