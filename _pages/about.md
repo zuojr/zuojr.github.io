@@ -18,10 +18,6 @@ I am very fortunate to be advised by [Prof. Bo Li](https://www.sem.tsinghua.edu.
 - Causal Inference
 - Generative Models
 
-## Publication & Working Paper
-- Jierui Zuo, Hanzhang Qin (2025). [On Pareto Optimality for the Multinomial Logistic Bandit.](https://arxiv.org/abs/2501.19277)  arxiv preprint 2501.19277 <br/>
-- Jierui Zuo, Ruihao Zhu, Hanzhang Qin (2025). [LLM–Augmented Best-Arm Identification with Control Variates.]()  Manuscript in preparation <br/>
-
 ## Miscs
 I enjoy table tennis, basketball and travelling in my free time.
 
