@@ -2,5 +2,7 @@
 main:
   - title: "Publications"
     url: /Pub/
-  - title: "CV"
+  - title: "Experiences"
     url: /CV/
+  - title: "Awards"
+    url: /Awards/
