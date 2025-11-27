@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Curriculum Vitae
+title: Experiences
 permalink: /CV/
 author_profile: true
 ---
