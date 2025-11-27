@@ -15,7 +15,7 @@ I am very fortunate to be advised by [Prof. Bo Li](https://www.sem.tsinghua.edu.
 ## Research Interest
 - **Methodology:** online learning, causal inference, generative models.  
 - **Applications:** dynamic pricing, online recommendation, financial platforms.<br/>
-
+I'm always open to new interesting topics!
 
 ## Miscs
 I enjoy table tennis, basketball and travelling in my free time.
