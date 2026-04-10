@@ -25,7 +25,7 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-I am an senior undergraduate student at Department of Management Science and Engineering at Tsinghua University. And I will join UW Foster as a PhD student in Information Systems this fall.
+I am an senior undergraduate student at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) at Tsinghua University. And I will join UW Foster as a PhD student in Information Systems this fall.
 
 I am working at the intersection of AI, learning, and decision-making. My work spans sequential decision-making, bandits, stochastic systems, and intelligent decision support, with a focus on building rigorous methods that connect theory with emerging AI systems.
 
