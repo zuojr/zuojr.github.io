@@ -9,8 +9,8 @@ profile:
   image: image.png
   image_circular: false
   more_info: >
-    <p>April 5th, 2026</p>
-    <p>at Mutianyu section of the Great Wall, Beijing<p>
+    <p>April 5th, 2026 at Mutianyu section of the Great Wall, Beijing</p>
+    <p><p>
 
 selected_papers: true
 social: true
