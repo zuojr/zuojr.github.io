@@ -4,7 +4,7 @@
 
 title: Jierui Zuo # the website title (if blank, full name will be used instead)
 first_name: Jierui
-middle_name:
+middle_name: (Jerry)
 last_name: Zuo
 contact_note: >
   Email is the best way to reach me.
@@ -561,20 +561,15 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# ---------------------------------------------------------------------------- #
+# HTML Compression
+# ---------------------------------------------------------------------------- #
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
