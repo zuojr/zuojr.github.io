@@ -9,8 +9,7 @@ profile:
   image: image.png
   image_circular: false
   more_info: >
-    <p>Jierui Zuo</p>
-    <p></p>
+    <p>Jierui Zuo (左捷瑞)</p>
 
 selected_papers: true
 social: true
