@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Jierui Zuo</p>
-    <p>→ University of Washington</p>
+    <p></p>
 
 selected_papers: true
 social: true
