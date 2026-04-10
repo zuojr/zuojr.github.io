@@ -9,7 +9,8 @@ profile:
   image: image.png
   image_circular: false
   more_info: >
-    <p>Jierui Zuo (左捷瑞)</p>
+    <p>April 5th, 2026</p>
+    <p>at Mutianyu section of the Great Wall, Beijing<p>
 
 selected_papers: true
 social: true
