@@ -259,3 +259,56 @@ ul.task-list input[type="checkbox"] {
 .d2h-diff-table {
   position: relative;
 }
+
+// Visitor map
+
+.visitor-map {
+  border: 1px solid var(--global-divider-color);
+
+  .card-body {
+    text-align: center;
+  }
+
+  .visitor-map-heading {
+    margin-bottom: 0.25rem;
+    font-weight: 600;
+    color: var(--global-text-color);
+  }
+
+  .visitor-map-description {
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+  }
+
+  .visitor-map-widget {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .visitor-map-placeholder {
+    display: flex;
+    min-height: 180px;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    border: 1px dashed var(--global-divider-color);
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+    background-color: var(--global-bg-color);
+
+    i {
+      font-size: 2rem;
+      color: var(--global-theme-color);
+    }
+
+    p {
+      max-width: 28rem;
+      margin: 0;
+      font-size: 0.85rem;
+    }
+  }
+}
