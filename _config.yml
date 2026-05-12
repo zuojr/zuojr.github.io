@@ -79,6 +79,17 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
+# Visitor map widget. Uses the ClustrMaps script generated for this site
+# to show a live world map with visitor locations and aggregate counts.
+# Use a numeric width: ClustrMaps' automatic width (`w=a`) can get stuck
+# on "loading data..." when embedded inside responsive/card layouts.
+visitor_map:
+  enabled: true
+  provider: clustrmaps
+  clustrmaps_id: Ml1a9S8Mi1zsosnWVfkcW_owdoMdIsMr9cdcWgLWlx4
+  dot_color: ffffff
+  width: 320
+
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
@@ -307,6 +318,9 @@ scholar:
   details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
+
+  filtered_bibtex_keywords:
+    - research_category
 
   query: "@*"
 
