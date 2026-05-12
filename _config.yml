@@ -86,7 +86,7 @@ visitor_map:
   provider: clustrmaps
   clustrmaps_id: Ml1a9S8Mi1zsosnWVfkcW_owdoMdIsMr9cdcWgLWlx4
   dot_color: ffffff
-  width: 300
+  width: a
   title_style: tt
 
 google_site_verification: # your google-site-verification ID (Google Search Console)

@@ -7,7 +7,7 @@
   {% assign provider = visitor_map.provider | default: 'clustrmaps' %}
   {% assign clustrmaps_id = visitor_map.clustrmaps_id | strip %}
   {% assign dot_color = visitor_map.dot_color | default: 'ff3b30' | remove: '#' %}
-  {% assign map_width = visitor_map.width | default: 300 %}
+  {% assign map_width = visitor_map.width | default: 'a' %}
   {% assign map_title = visitor_map.title_style | default: 'tt' %}
   {% assign map_width_string = map_width | append: '' %}
   {% assign map_widget_style = '' %}
