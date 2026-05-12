@@ -7,7 +7,8 @@
   {% assign provider = visitor_map.provider | default: 'clustrmaps' %}
   {% assign clustrmaps_id = visitor_map.clustrmaps_id | strip %}
   {% assign dot_color = visitor_map.dot_color | default: 'ff3b30' | remove: '#' %}
-  {% assign map_width = visitor_map.width | default: 320 %}
+  {% assign map_width = visitor_map.width | default: 300 %}
+  {% assign map_title = visitor_map.title_style | default: 'tt' %}
   {% assign map_width_string = map_width | append: '' %}
   {% assign map_widget_style = '' %}
   {% unless map_width_string == 'a' %}
@@ -22,6 +23,7 @@
       </p>
 
       <div
+        id="clustrmaps-widget"
         class="visitor-map-widget"
         {% if map_widget_style != blank %}
           style="{{ map_widget_style }}"
@@ -31,7 +33,7 @@
           <script
             type="text/javascript"
             id="clustrmaps"
-            src="https://clustrmaps.com/map_v2.js?d={{ clustrmaps_id }}&cl={{ dot_color }}&w={{ map_width }}"
+            src="https://cdn.clustrmaps.com/map_v2.js?cl={{ dot_color }}&w={{ map_width }}&t={{ map_title }}&d={{ clustrmaps_id }}"
           ></script>
         {% else %}
           <div class="visitor-map-placeholder">
