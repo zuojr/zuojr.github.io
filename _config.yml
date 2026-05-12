@@ -79,15 +79,14 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
-# Visitor map widget. Register the site at https://clustrmaps.com/ and paste
-# the generated `d` token below to show a live world map with visitor dots
-# and aggregate counts on the homepage.
+# Visitor map widget. Uses the ClustrMaps script generated for this site
+# to show a live world map with visitor locations and aggregate counts.
 visitor_map:
   enabled: true
   provider: clustrmaps
-  clustrmaps_id: # paste the ClustrMaps `d` token here
-  dot_color: ff3b30
-  width: 320
+  clustrmaps_id: Ml1a9S8Mi1zsosnWVfkcW_owdoMdIsMr9cdcWgLWlx4
+  dot_color: ffffff
+  width: a
 
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)

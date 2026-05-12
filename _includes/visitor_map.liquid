@@ -7,18 +7,22 @@
   {% assign provider = visitor_map.provider | default: 'clustrmaps' %}
   {% assign clustrmaps_id = visitor_map.clustrmaps_id | strip %}
   {% assign dot_color = visitor_map.dot_color | default: 'ff3b30' | remove: '#' %}
-  {% assign map_width = visitor_map.width | default: 320 %}
+  {% assign map_width = visitor_map.width | default: 'a' %}
 
   <div class="visitor-map card mt-4">
     <div class="card-body">
       <p class="visitor-map-heading">visitor map</p>
       <p class="visitor-map-description">
-        Approximate visitor locations and aggregate counts over time. Red dots appear after the live tracker starts receiving visits.
+        Approximate visitor locations and aggregate counts over time. Markers appear after the live tracker starts receiving visits.
       </p>
 
       <div class="visitor-map-widget">
         {% if provider == 'clustrmaps' and clustrmaps_id != blank %}
-          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ml1a9S8Mi1zsosnWVfkcW_owdoMdIsMr9cdcWgLWlx4&cl=ffffff&w=a"></script>
+          <script
+            type="text/javascript"
+            id="clustrmaps"
+            src="https://clustrmaps.com/map_v2.js?d={{ clustrmaps_id }}&cl={{ dot_color }}&w={{ map_width }}"
+          ></script>
         {% else %}
           <div class="visitor-map-placeholder">
             <i class="fa-solid fa-map-location-dot" aria-hidden="true"></i>
