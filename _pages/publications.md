@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="publication-category">AI Agents & Human–AI Decision Systems</h2>
+
+{% bibliography --group_by none --query @*[research_category=ai_agents_human_ai_decision_systems]* %}
+
+<h2 class="publication-category">Online Learning, Experimentation & Platform Design</h2>
+
+{% bibliography --group_by none --query @*[research_category=online_learning_experimentation_platform_design]* %}
 
 </div>
