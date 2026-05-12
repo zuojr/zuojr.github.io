@@ -186,3 +186,12 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+.publication-category {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1.25rem;
+  font-weight: 500;
+}

@@ -1,0 +1,48 @@
+{% assign visitor_map = site.visitor_map %}
+{% if page.visitor_map %}
+  {% assign visitor_map = page.visitor_map %}
+{% endif %}
+
+{% if visitor_map and visitor_map.enabled %}
+  {% assign provider = visitor_map.provider | default: 'clustrmaps' %}
+  {% assign clustrmaps_id = visitor_map.clustrmaps_id | strip %}
+  {% assign dot_color = visitor_map.dot_color | default: 'ff3b30' | remove: '#' %}
+  {% assign map_width = visitor_map.width | default: 300 %}
+  {% assign map_title = visitor_map.title_style | default: 'tt' %}
+  {% assign map_width_string = map_width | append: '' %}
+  {% assign map_widget_style = '' %}
+  {% unless map_width_string == 'a' %}
+    {% assign map_widget_style = map_width_string | prepend: 'max-width: ' | append: 'px;' %}
+  {% endunless %}
+
+  <div class="visitor-map card mt-4">
+    <div class="card-body">
+      <p class="visitor-map-heading">visitor map</p>
+      <p class="visitor-map-description">
+        Approximate visitor locations and aggregate counts over time. Markers appear after the live tracker starts receiving visits.
+      </p>
+
+      <div
+        id="clustrmaps-widget"
+        class="visitor-map-widget"
+        {% if map_widget_style != blank %}
+          style="{{ map_widget_style }}"
+        {% endif %}
+      >
+        {% if provider == 'clustrmaps' and clustrmaps_id != blank %}
+          <script
+            type="text/javascript"
+            id="clustrmaps"
+            src="https://cdn.clustrmaps.com/map_v2.js?cl={{ dot_color }}&w={{ map_width }}&t={{ map_title }}&d={{ clustrmaps_id }}"
+          ></script>
+        {% else %}
+          <div class="visitor-map-placeholder">
+            <i class="fa-solid fa-map-location-dot" aria-hidden="true"></i>
+            <p>Add the ClustrMaps widget token in <code>visitor_map.clustrmaps_id</code> to activate the live visitor map.</p>
+            <a href="https://clustrmaps.com/" class="btn btn-sm z-depth-0" role="button">Create map widget</a>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endif %}

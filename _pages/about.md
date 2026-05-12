@@ -12,7 +12,7 @@ profile:
     <p>April 5th, 2026 at Mutianyu section of the Great Wall, Beijing</p>
     <p><p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
