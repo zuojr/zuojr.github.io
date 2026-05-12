@@ -282,8 +282,10 @@ ul.task-list input[type="checkbox"] {
   }
 
   .visitor-map-widget {
-    display: flex;
-    justify-content: center;
+    display: block;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
     overflow: hidden;
   }
 
