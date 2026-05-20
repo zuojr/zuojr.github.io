@@ -88,6 +88,10 @@ visitor_map:
   dot_color: ffffff
   width: a
   title_style: tt
+  ocean_color: 2d78ad
+  text_color: ffffff
+  marker_color_max: 3acc3a
+  marker_color_min: ff5353
 
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
