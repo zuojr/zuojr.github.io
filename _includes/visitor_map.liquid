@@ -1,0 +1,42 @@
+{% assign visitor_map = site.visitor_map %}
+{% if page.visitor_map %}
+  {% assign visitor_map = page.visitor_map %}
+{% endif %}
+
+{% if visitor_map and visitor_map.enabled %}
+  {% assign provider = visitor_map.provider | default: 'clustrmaps' %}
+  {% assign clustrmaps_id = visitor_map.clustrmaps_id | strip %}
+  {% assign dot_color = visitor_map.dot_color | default: 'ffffff' | remove: '#' %}
+  {% assign map_width = visitor_map.width | default: 'a' %}
+  {% assign map_title = visitor_map.title_style | default: 'tt' %}
+  {% assign ocean_color = visitor_map.ocean_color | default: '2d78ad' | remove: '#' %}
+  {% assign text_color = visitor_map.text_color | default: 'ffffff' | remove: '#' %}
+  {% assign marker_color_max = visitor_map.marker_color_max | default: '3acc3a' | remove: '#' %}
+  {% assign marker_color_min = visitor_map.marker_color_min | default: 'ff5353' | remove: '#' %}
+
+  <div class="visitor-map mt-4">
+    <h2>Visitors of this Site</h2>
+
+    {% if provider == 'clustrmaps' and clustrmaps_id != blank %}
+      <script
+        type="text/javascript"
+        id="clustrmaps"
+        src="https://clustrmaps.com/map_v2.js?cl={{ dot_color }}&w={{ map_width }}&t={{ map_title }}&d={{ clustrmaps_id }}&co={{ ocean_color }}&ct={{ text_color }}&cmo={{ marker_color_max }}&cmn={{ marker_color_min }}"
+      ></script>
+      <noscript>
+        <a href="https://clustrmaps.com/site/{{ clustrmaps_id }}" title="Visit tracker">
+          <img
+            src="https://www.clustrmaps.com/map_v2.png?d={{ clustrmaps_id }}&cl={{ dot_color }}&w={{ map_width }}&t={{ map_title }}"
+            alt="Visitor map"
+          >
+        </a>
+      </noscript>
+    {% else %}
+      <div class="visitor-map-placeholder">
+        <i class="fa-solid fa-map-location-dot" aria-hidden="true"></i>
+        <p>Add the ClustrMaps widget token in <code>visitor_map.clustrmaps_id</code> to activate the live visitor map.</p>
+        <a href="https://clustrmaps.com/" class="btn btn-sm z-depth-0" role="button">Create map widget</a>
+      </div>
+    {% endif %}
+  </div>
+{% endif %}
