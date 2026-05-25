@@ -1,7 +1,7 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-25'
 papers:
   Tq8--EEAAAAJ:M3ejUd6NZC8C:
     citations: 1
-    title: On Pareto Optimality for the Multinomial Logistic Bandit
+    title: On Pareto Optimality for Parametric Choice Bandits
     year: '2025'
