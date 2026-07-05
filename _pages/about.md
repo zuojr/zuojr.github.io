@@ -6,10 +6,10 @@ subtitle: AI and Sequential Decision-Making
 
 profile:
   align: right
-  image: image.png
+  image: jierui-zuo-profile.jpg
   image_circular: false
   more_info: >
-    <p>April 5th, 2026 at Mutianyu section of the Great Wall, Beijing</p>
+    <p>At Tsinghua University School of Economics and Management</p>
     <p><p>
 
 selected_papers: false
@@ -25,7 +25,8 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-I am an senior undergraduate student at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) at Tsinghua University. 
+
+I am an senior undergraduate student at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) at Tsinghua University.
 
 I am working at the intersection of AI, learning, and decision-making. My work spans sequential decision-making, bandits, stochastic systems, and intelligent decision support, with a focus on building rigorous methods that connect theory with emerging AI systems.
 
