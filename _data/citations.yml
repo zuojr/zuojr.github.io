@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-24'
 papers:
   Tq8--EEAAAAJ:4DMP91E08xMC:
     citations: 2
@@ -10,6 +10,6 @@ papers:
     title: Best-Arm Identification with Generative Proxy
     year: '2026'
   Tq8--EEAAAAJ:qxL8FJ1GzNcC:
-    citations: 2
+    citations: 4
     title: Agents' Last Exam
     year: '2026'
