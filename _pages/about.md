@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI and Sequential Decision-Making
+subtitle: Ph.D. in IS
 
 profile:
   align: right
@@ -26,10 +26,10 @@ latest_posts:
   limit: 3
 ---
 
-I am an senior undergraduate student at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) at Tsinghua University.
+Hi! Welcome to Jerry's homepage!
 
-I am working at the intersection of AI, learning, and decision-making. My work spans sequential decision-making, bandits, stochastic systems, and intelligent decision support, with a focus on building rigorous methods that connect theory with emerging AI systems.
+I'm a first year Ph.D. student in Information Systems at the Michael G. Foster School of Business, University of Washington.
 
-More broadly, I am interested in bridging mathematically grounded research with practical questions in intelligent systems, business, operations, and human-AI collaboration.
+My research interests broadly lie at the intersection of information systems, machine learning, and operations. I study how intelligent and algorithmic systems learn, make decisions, and interact with people and organizations, using tools from online learning, optimization, and experimental design. I am particularly interested in applications to online platforms, FinTech, and emerging AI-enabled systems, while continuing to explore new problems at the intersection of technology and business.
 
-During my undergraduate study, I worked with [Prof. Hanzhang Qin](https://hanzhangqin.com/) and [Prof Ruihao Zhu](https://rzhu.github.io/) on Multi-arm Bandits. And I worked on Experiment Design for Online Scheduling with [Prof. Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/) and [Prof. Zijie Zhou](https://sites.google.com/view/zijiezhou/). I also worked closely with [Prof. Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1219/6985.htm).
+Before my UW, I received my bachelor's degree in Information Systems at [Department of Management Science and Engineering](https://www.sem.tsinghua.edu.cn/mseen/) at Tsinghua University. During my undergraduate study, I worked closely with [Prof. Hanzhang Qin](https://hanzhangqin.com/), [Prof. Ruihao Zhu](https://rzhu.github.io/), [Prof. Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1219/6985.htm) and [Prof. Jinglong Zhao](https://www.bu.edu/cise/profile/jinglong-zhao/).
