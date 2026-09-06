@@ -6,7 +6,7 @@ subtitle: Ph.D. in IS
 
 profile:
   align: right
-  image: jierui-zuo-profile.jpg
+  image: daocaoren.jpg
   image_circular: false
   more_info: >
     <p>At Tsinghua University School of Economics and Management</p>
