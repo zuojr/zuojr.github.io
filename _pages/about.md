@@ -9,7 +9,7 @@ profile:
   image: daocaoren.jpg
   image_circular: false
   more_info: >
-    <p>At Tsinghua University School of Economics and Management</p>
+    <p></p>
     <p><p>
 
 selected_papers: false
