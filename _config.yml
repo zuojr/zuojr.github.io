@@ -6,8 +6,7 @@ title: Jierui (Jerry) Zuo # the website title (if blank, full name will be used 
 first_name: Jierui
 middle_name: (Jerry)
 last_name: Zuo
-contact_note: >
-  Email is the best way to reach me.
+contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Research at the intersection of AI, learning, and decision-making.
 footer_text: >
@@ -55,7 +54,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
