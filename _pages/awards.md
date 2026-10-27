@@ -10,6 +10,18 @@ nav_order: 4
 <ul class="pl-3">
   <li class="mb-3">
     <div class="d-flex flex-column flex-sm-row justify-content-between">
+      <span><strong>Foster Ph.D. Fellowship</strong>, University of Washington</span>
+      <span class="text-nowrap ml-sm-4">2026</span>
+    </div>
+  </li>
+  <li class="mb-3">
+    <div class="d-flex flex-column flex-sm-row justify-content-between">
+      <span><strong>Finalist, INFORMS Undergraduate Operations Research Prize</strong></span>
+      <span class="text-nowrap ml-sm-4">2026</span>
+    </div>
+  </li>
+  <li class="mb-3">
+    <div class="d-flex flex-column flex-sm-row justify-content-between">
       <span><strong>Tsinghua Outstanding Graduate</strong>, Tsinghua University</span>
       <span class="text-nowrap ml-sm-4">2026</span>
     </div>
