@@ -16,7 +16,7 @@ nav_order: 4
   </li>
   <li class="mb-3">
     <div class="d-flex flex-column flex-sm-row justify-content-between">
-      <span><strong>Finalist, INFORMS Undergraduate Operations Research Prize</strong></span>
+      <span><strong>Honorable Mention, INFORMS Undergraduate Operations Research Prize</strong></span>
       <span class="text-nowrap ml-sm-4">2026</span>
     </div>
   </li>
