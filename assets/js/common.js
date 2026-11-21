@@ -1,4 +1,19 @@
 $(document).ready(function () {
+  // Close the mobile menu when a navigation link scrolls to a homepage section.
+  $("#navbar a.nav-link").click(function () {
+    const target = new URL(this.href, window.location.href);
+    if (target.origin === window.location.origin && target.pathname === window.location.pathname && target.hash) {
+      const menu = $("#navbarNav");
+      if (menu.hasClass("collapsing") && $(".navbar-toggler").attr("aria-expanded") === "true") {
+        menu.one("shown.bs.collapse", function () {
+          menu.collapse("hide");
+        });
+      } else {
+        menu.collapse("hide");
+      }
+    }
+  });
+
   // add toggle functionality to abstract, award and bibtex buttons
   $("a.abstract").click(function () {
     $(this).parent().parent().find(".abstract.hidden").toggleClass("open");

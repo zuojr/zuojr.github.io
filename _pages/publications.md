@@ -2,25 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-heading: Publications & Working Papers
-nav: true
-nav_order: 2
+hide_header: true
+nav: false
+redirect: /research/
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-<h2 class="publication-category">AI Agents & Human–AI Decision Systems</h2>
-
-{% bibliography --group_by none --query @*[research_category=ai_agents_human_ai_decision_systems]* %}
-
-<h2 class="publication-category">Online Learning, Experimentation & Platform Design</h2>
-
-{% bibliography --group_by none --query @*[research_category=online_learning_experimentation_platform_design]* %}
-
-</div>
+Research is now on the [Research page]({{ '/research/' | relative_url }}).

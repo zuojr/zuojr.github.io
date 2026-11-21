@@ -1,0 +1,19 @@
+- institution: University of Washington
+  url: https://www.washington.edu/
+  school: Michael G. Foster School of Business
+  degree: Ph.D. student in Information Systems
+  dates: Sept 2026 – Jun 2031
+  logo: assets/img/schools/washington.png
+
+- institution: Tsinghua University
+  url: https://www.tsinghua.edu.cn/en/
+  school: Department of Management Science and Engineering
+  degree: Bachelor in Information Systems
+  dates: Sept 2022 – Jun 2026
+  logo: assets/img/schools/tsinghua.svg
+
+- institution: McGill University
+  url: https://www.mcgill.ca/
+  degree: Exchange Student in Math and Operations Research
+  dates: Sept 2024 – Dec 2024
+  logo: assets/img/schools/mcgill.svg

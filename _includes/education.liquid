@@ -1,0 +1,28 @@
+<section class="about-education" aria-labelledby="education">
+  <h2 id="education">Education</h2>
+  <ul class="education-list" role="list">
+    {% for entry in site.data.education %}
+      <li class="education-item">
+        <div class="education-logo" aria-hidden="true">
+          <img src="{{ entry.logo | relative_url }}" alt="" width="64" height="64" loading="lazy">
+        </div>
+        <div class="education-details">
+          <div class="education-heading">
+            <h3>
+              {% if entry.url %}
+                <a href="{{ entry.url | escape }}" target="_blank" rel="external noopener noreferrer">{{ entry.institution }}</a>
+              {% else %}
+                {{ entry.institution }}
+              {% endif %}
+            </h3>
+            <p class="education-dates">{{ entry.dates }}</p>
+          </div>
+          {% if entry.school %}
+            <p class="education-school">{{ entry.school }}</p>
+          {% endif %}
+          <p class="education-degree">{{ entry.degree }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
