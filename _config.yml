@@ -308,6 +308,8 @@ scholar:
 
   filtered_bibtex_keywords:
     - research_category
+    - summary
+    - contribution
 
   query: "@*"
 
