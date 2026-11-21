@@ -1,0 +1,122 @@
+// Education within About, using the site's existing typography and theme colors.
+.about-education {
+  margin-top: 2.5rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--global-divider-color);
+
+  h2 {
+    margin-bottom: 1.75rem;
+    font-size: 1.75rem;
+    font-weight: 400;
+  }
+
+  .education-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .education-item {
+    display: grid;
+    grid-template-columns: 80px minmax(0, 1fr);
+    align-items: start;
+    gap: 1.25rem;
+    margin-bottom: 1.75rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .education-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    background: #fff;
+    border-radius: 0.5rem;
+
+    img {
+      display: block;
+      width: 64px;
+      height: 64px;
+      object-fit: contain;
+    }
+  }
+
+  .education-details {
+    min-width: 0;
+  }
+
+  .education-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.25rem;
+    margin-bottom: 0.25rem;
+  }
+
+  h3 {
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.4;
+  }
+
+  .education-dates {
+    margin: 0;
+    color: var(--global-text-color);
+    opacity: 0.75;
+    font-size: 0.875rem;
+    white-space: nowrap;
+  }
+
+  .education-school {
+    margin: 0 0 0.3rem;
+    color: var(--global-text-color);
+    opacity: 0.75;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+
+  .education-degree {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .about-education {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+
+    .education-item {
+      grid-template-columns: 56px minmax(0, 1fr);
+      gap: 1rem;
+      margin-bottom: 1.75rem;
+    }
+
+    .education-logo {
+      width: 56px;
+      height: 56px;
+
+      img {
+        width: 44px;
+        height: 44px;
+      }
+    }
+
+    .education-heading {
+      display: block;
+    }
+
+    .education-dates {
+      margin-top: 0.25rem;
+      white-space: normal;
+    }
+  }
+}

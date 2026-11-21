@@ -52,6 +52,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const updateInputField = () => {
     const hashValue = decodeURIComponent(window.location.hash.substring(1)); // Remove the '#' character
+    // Homepage section links should scroll without changing the publication filter.
+    if (hashValue && document.getElementById(hashValue)) {
+      return;
+    }
     document.getElementById("bibsearch").value = hashValue;
     filterItems(hashValue);
   };
@@ -61,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
   document.getElementById("bibsearch").addEventListener("input", function () {
     clearTimeout(timeoutId); // Clear the previous timeout
     const searchTerm = this.value.toLowerCase();
-    timeoutId = setTimeout(filterItems(searchTerm), 300);
+    timeoutId = setTimeout(() => filterItems(searchTerm), 300);
   });
 
   window.addEventListener("hashchange", updateInputField); // Update the filter when the hash changes
