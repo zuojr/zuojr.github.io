@@ -148,29 +148,22 @@
       {% endif %}
     </div>
 
-    <!-- Journal/Book title and date -->
+    <!-- Year, venue and publication status -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
-    {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+    {% if entry.journal != blank %}
+      {% capture entrytype %}{{ entry.journal }}{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+      {% capture entrytype %}{{ entry.booktitle }}{% endcapture %}
     {% elsif thesis contains entry.type %}
-      {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
+      {% capture entrytype %}{{ entry.school }}{% endcapture %}
     {% else %}
-      {% capture entrytype %}{% endcapture %}
+      {% assign entrytype = '' %}
     {% endif %}
-    {% assign entrymonth = '' %}
-    {% if entry.month %}
-      {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
-    {% endif %}
-    {% assign entryyear = '' %}
-    {% if entry.year %}
-      {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
-    {% endif %}
+    {% assign entryyear = entry.year | default: '' | strip %}
     {% if entry.location %}
-      {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
-    {% endif -%}
+      {% capture entrytype %}{{ entrytype }}, {{ entry.location }}{% endcapture %}
+    {% endif %}
     {% if entry.additional_info %}
       {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
@@ -179,13 +172,36 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
-    <div class="periodical">
-      {{ periodical | strip }}
-    </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
-    </div>
+    {% assign entrytype_normalized = entrytype_text | downcase %}
+    {% assign publication_status = entry.note | default: '' | strip %}
+    {% if entrytype_normalized == 'arxiv preprint' %}
+      {% assign entrytype_text = '' %}
+      {% if publication_status == blank %}
+        {% assign publication_status = 'Preprint' %}
+      {% endif %}
+    {% elsif entrytype_text == blank and entry.arxiv != blank and publication_status == blank %}
+      {% assign publication_status = 'Preprint' %}
+    {% endif %}
+    {% if entryyear != blank or entrytype_text != blank or publication_status != blank %}
+      <div class="publication-meta">
+        {{- entryyear | escape -}}
+        {%- if entrytype_text != blank -%}
+          {%- if entryyear != blank %} · {% endif -%}
+          {{- entrytype | strip -}}
+        {%- endif -%}
+        {%- if publication_status != blank -%}
+          {%- if entryyear != blank or entrytype_text != blank %} · {% endif -%}
+          {{- publication_status | escape -}}
+        {%- endif -%}
+      </div>
+    {% endif %}
+
+    {% if entry.summary %}
+      <p class="publication-summary">{{ entry.summary | escape }}</p>
+    {% endif %}
+    {% if entry.contribution %}
+      <p class="publication-contribution"><span>My contribution:</span> {{ entry.contribution | escape }}</p>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
