@@ -98,6 +98,25 @@
         }
       }
 
+      .publication-summary {
+        margin: 0.4rem 0 0.5rem;
+        color: var(--global-text-color);
+        font-size: 0.9375rem;
+        line-height: 1.5;
+      }
+
+      .publication-contribution {
+        margin: 0 0 0.5rem;
+        color: var(--global-text-color);
+        opacity: 0.8;
+        font-size: 0.875rem;
+        line-height: 1.5;
+
+        span {
+          font-weight: 500;
+        }
+      }
+
       .links {
         a.btn {
           color: var(--global-text-color);

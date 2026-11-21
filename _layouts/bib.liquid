@@ -187,6 +187,13 @@
       {{ entry.note | strip }}
     </div>
 
+    {% if entry.summary %}
+      <p class="publication-summary">{{ entry.summary | escape }}</p>
+    {% endif %}
+    {% if entry.contribution %}
+      <p class="publication-contribution"><span>My contribution:</span> {{ entry.contribution | escape }}</p>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
